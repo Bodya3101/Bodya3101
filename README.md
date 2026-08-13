@@ -27,7 +27,7 @@ System architect and UI/UX designer. I value restrained minimalism, strict ergon
 
 ### <img src="https://api.iconify.design/ph:terminal-window-duotone.svg?color=%23214622" width="22" align="top"> What I'm working on
 * **Prose** — A lightweight, professional dataset editor with a dozen features and tricks.
-* * **Synapto** — A library that allows you to create dynamic weights for a model and embed memory into them.
+* **Synapto** — A library that allows you to create dynamic weights for a model and embed memory into them.
 * **UI/UX Design** — creating Data-Driven interfaces with precise visuals and a solid user experience.
 
 </details>
