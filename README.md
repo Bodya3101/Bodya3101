@@ -12,9 +12,8 @@
 Системный архитектор и UI/UX дизайнер. Ценю сдержанный минимализм, строгую эргономику и чистую логику. Проектирую интерфейсы от первых концептов до полностью рабочего кода, выстраивая надежный бэкенд.
 
 ### <img src="https://api.iconify.design/ph:terminal-window-duotone.svg?color=%23214622" width="22" align="top"> Над чем я работаю
-* **NervGPT** — разработка и интеграция AI-архитектуры и LLM-решений.
-* **NervID** — сервис безопасной аутентификации и управления доступом.
-* **Web Services** — проектирование изолированных, модульных и быстрых веб-решений.
+* **Prose** — Легковесный и профессиональный редактор датасетов с десятком функций и фишек.
+* * **Synapto** — Библиотека которая позволяет создавать динамические веса для модели и вставлять в них память.
 * **UI/UX Design** — создание Data-Driven интерфейсов с выверенным визуалом и грамотным пользовательским опытом.
 
 </details>
@@ -27,9 +26,8 @@
 System architect and UI/UX designer. I value restrained minimalism, strict ergonomics, and clean logic. I design interfaces from initial concepts to fully working code, building a reliable backend.
 
 ### <img src="https://api.iconify.design/ph:terminal-window-duotone.svg?color=%23214622" width="22" align="top"> What I'm working on
-* **NervGPT** — AI architecture and LLM solutions development.
-* **NervID** — secure authentication and access management service.
-* **Web Services** — designing isolated, modular, and fast web solutions.
+* **Prose** — A lightweight, professional dataset editor with a dozen features and tricks.
+* * **Synapto** — A library that allows you to create dynamic weights for a model and embed memory into them.
 * **UI/UX Design** — creating Data-Driven interfaces with precise visuals and a solid user experience.
 
 </details>
